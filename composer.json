@@ -1,0 +1,19 @@
+{
+    "description": "php-mvc-framework",
+    "name": "shiroworks/php-mvc-framework",
+    "authors": [
+        {
+            "name": "Vilmos Szabó",
+            "email": "szabomediaweb@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.0"
+       
+    }
+}
